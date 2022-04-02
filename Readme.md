@@ -4,12 +4,12 @@
   
 -  O framework Bootstrap 
 
--  Ultilizar o Bootstrap na sua página Web
+-  Ultilizar o Bootstrap em uma página Web
 
--  Criar containers personalizados para seu site
+-  Criar containers personalizados para o site
 
 -  Trabalhando com imagens dentro de containers
 
--  Lista de navegação com imagens em seu projeto
+-  Lista de navegação com imagens em um projeto
 
 -  Lista de navegação dentro de containers utilizando imagens
